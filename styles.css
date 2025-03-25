@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(173, 221, 206);
+}
+
+header {
+    color: rgb(43, 70, 226);
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
